@@ -120,4 +120,3 @@ print(f'Accuracy: {accuracy}')
 
 # These examples provide a basic overview of some fundamental components of data science. 
 # As you dive deeper, you'll explore more advanced topics and techniques, but understanding these basics will give you a solid foundation to build upon.
-
