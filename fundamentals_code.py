@@ -42,6 +42,7 @@ print(df.corr())
 
 import matplotlib.pyplot as plt
 
+
 # Plot a histogram of a specific column
 df['column_name'].hist()
 plt.show()
